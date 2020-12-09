@@ -50,3 +50,7 @@
     margin-right: 50%;
     transform: translate(-50%, 0%);
 }
+
+html {
+  font-family: sans-serif;
+}
