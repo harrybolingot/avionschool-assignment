@@ -29,7 +29,6 @@
   }
 
 .label-row {
-    font: serif;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -39,7 +38,6 @@
 }
 
 .label-column {
-    font: serif;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
